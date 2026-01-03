@@ -1,6 +1,5 @@
 # LDSA_Project_2
 This is my Linear Data &amp; Scheduling Algorithms Project 2. 
-
 <br/>
 <br/>:mortar_board: **Implements the following:**
     <br/> 1. Divide and Conquer Algorithm
